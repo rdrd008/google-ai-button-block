@@ -1,0 +1,9 @@
+! Title: Google AI Button Block
+! Description: Removes specific Google AI button elements
+! Version: 1.0
+! Last updated: 2026-02-22
+
+www.google.com##.EDblX.JpOecb > div.YkNJDb:nth-of-type(1) > .YkNJDb > div:nth-of-type(1) > div:nth-of-type(1) > .olrp5b > .XVMlrc.C6AK7c > .mXwfNd > .R1QWuf
+www.google.com##.EDblX.JpOecb > div.YkNJDb:nth-of-type(1) > .YkNJDb > div:nth-of-type(1) > div:nth-of-type(1) > .olrp5b > .XVMlrc.C6AK7c > .mXwfNd
+www.google.com##.XVMlrc.C6AK7c > .mXwfNd > .mVH5Fc > .R1QWuf
+www.google.com##.XVMlrc.C6AK7c > .mXwfNd
